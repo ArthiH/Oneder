@@ -1,0 +1,23 @@
+.team{
+    .txt{
+        h1{
+            font-weight: 900;
+        font-size: 2rem;
+        }
+        p{
+            color: #87869D;
+            margin-bottom: 3rem;
+        }
+    }
+    .image_part{
+        img{
+            position: relative;
+            max-width: 300px;
+        width: 100%;
+        }
+
+        .icon{
+            background-color: aqua;
+        }
+    }
+}

@@ -1,0 +1,30 @@
+.blog{
+    h1{
+        margin-top: 3rem;
+        font-weight: 900;
+        font-size: 40px;
+            
+    }
+    img{
+        max-width: 300px;
+        width: 100%;
+        max-height: 300px;
+        height: 100%;
+    }
+    h1::selection{
+        background-color: black;
+        color: white;
+    }
+    h5::selection{
+        background-color: black;
+        color: white;
+    }
+    p::selection{
+        background-color: black;
+        color: white;
+    }
+    span::selection{
+        background-color: black;
+        color: white;
+    }
+}

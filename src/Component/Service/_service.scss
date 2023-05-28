@@ -1,0 +1,33 @@
+.service{
+    background-color: #e9ecef;
+    .container{
+        margin: 5rem;
+        h1{
+            margin-block: 3rem;
+            font-weight: 900;
+            font-size: 40px;
+            padding-block: 1rem;
+        }
+        h1::selection{
+            background-color: black;
+            color: white;
+        }
+        h5::selection{
+            background-color: black;
+            color: white;
+        }
+        p::selection{
+            background-color: black;
+            color: white;
+        }
+        article{
+            margin-bottom: 2rem;
+        }
+        img{
+            max-width: 50px;
+            width: 100%;
+            padding-bottom: 1rem;
+        }
+    }
+    
+}

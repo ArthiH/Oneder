@@ -1,0 +1,19 @@
+.freq{
+    background-color: #F8F9FA;
+    h1{
+            font-weight: 900;
+            font-size: 40px;
+    }
+    h1::selection{
+        background-color: black;
+        color: white;
+    }
+    h5::selection{
+        background-color: black;
+        color: white;
+    }
+    p::selection{
+        background-color: black;
+        color: white;
+    }
+}

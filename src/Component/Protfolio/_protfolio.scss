@@ -1,0 +1,28 @@
+
+.protfolio{
+    margin: 5rem;
+    .heading{
+        h1{
+            font-weight: 900;
+        font-size: 2rem;
+        }
+        .btn{
+            background-color: #e9ecef;
+            border: none;
+            color: black;
+        }
+        .btn:hover{
+            color: white;
+            background-color: #0d6efd;
+        }
+    }
+    .images{
+
+        img{
+            max-width: 275px;
+            width: 100%;
+        }
+    }
+      
+    
+}

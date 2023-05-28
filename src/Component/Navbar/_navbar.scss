@@ -1,0 +1,29 @@
+.nav{
+    background-color: transparentize($color: #000000, $amount: 0);
+    .logo{
+        margin-right: 12rem;
+        font-weight: 800;
+    }
+    .list{
+    
+            a{
+                text-decoration: none;
+                color: #dee2e6;
+              }
+              a:active{
+                text-decoration: none;
+                color: #007BFF;
+              }
+              li{
+                .active{
+                    color: #007BFF;
+                }
+              }
+    
+      a:hover{
+        color: #007BFF;
+      }  
+      
+      
+    }
+}

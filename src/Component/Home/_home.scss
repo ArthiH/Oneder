@@ -1,0 +1,21 @@
+
+.content{
+    h1{
+        font-weight:900;
+        font-size: 3rem;
+    }
+    h1::selection{
+        background-color: black;
+    }
+    .btn{
+        button{
+            background-color: #007BFF;
+            margin-top: 3rem;
+            border: none;
+            font-weight: 600;
+            text-decoration: none;
+            padding: 10px 30px;
+            border-radius:20px;
+        }
+    }
+}
