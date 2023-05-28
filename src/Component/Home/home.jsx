@@ -15,7 +15,7 @@ export const Home=()=>{
     return(
         <main>
             <Navbar/>
-            <div>
+            <div className="position-relative">
                 <img className="w-100 position-relative" src={Home_image} alt="Home images not found" />
             <div className="container content">
                 <section className="position-absolute top-50 start-50 translate-middle d-flex row">

@@ -9,7 +9,7 @@ export const About=()=>{
     return(
         <main>
             <div className="container about">
-        <h1 className="text-center m-5 text-primary fw-bold">About Oneder</h1>
+        <h1 className="text-center text-primary">About Oneder</h1>
         <section className="d-flex content m-2">
                 <div >
                 <img className="img-fluid" src={ About_image} alt="About images not found" />

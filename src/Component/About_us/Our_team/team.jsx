@@ -11,7 +11,7 @@ export const Team=()=>{
         <div>
             <main className="container team">
         <div className="txt">
-            <h1 className="text-center my-4 text-primary">Our Team</h1>
+            <h1 className="text-center text-primary">Our Team</h1>
             <p className="text-center fs-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus minima <br/>neque tempora reiciendis.</p>
         </div>
         <article className="row gap-2 py-2">
