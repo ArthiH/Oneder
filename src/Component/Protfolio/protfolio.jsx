@@ -18,7 +18,7 @@ import img_13 from "../../assets/protfolio/image/img_13.jpg.webp";
 
 export const Protfolio=()=>{
     return(
-        <main className="container protfolio">
+        <main className="container protfolio" id="protfolio">
           <section className="d-flex flex-column justify-content-center align-items-center heading ">
             <h1 className="text-primary">Protfolio</h1>
            <div className="d-flex gap-3 my-4 text-black align-items-center">

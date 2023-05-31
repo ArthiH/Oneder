@@ -38,7 +38,7 @@ export const Pricing=()=>{
                             </dl>
                             </div>
                             <article className="d-flex justify-content-center">
-                            <button class="btn bg-secondary text-white rounded-pill text-center my-4 px-4">Buy Now</button>
+                            <button className="btn bg-secondary text-white rounded-pill text-center my-4 px-4">Buy Now</button>
                             </article>
                         </section>
                         <section className="bg-white p-3 col-lg-4 col-md-6 mb-lg-0">
@@ -67,7 +67,7 @@ export const Pricing=()=>{
                             </dl>
                             </div>
                             <article className="d-flex justify-content-center ">
-                            <button class="btn text-white rounded-pill text-center my-4 px-4 buy">Buy Now</button>
+                            <button className="btn rounded-pill text-center my-4 px-4 buy"><a href="#home" className="text-white text-decoration-none">Buy Now</a></button>
                             </article>
                         </section>
                         <section className="bg-white p-3 col-lg-4 col-md-6 mb-lg-0">
@@ -96,7 +96,7 @@ export const Pricing=()=>{
                             </dl>
                             </div>
                             <article className="d-flex justify-content-center">
-                            <button class="btn bg-secondary text-white rounded-pill text-center my-4 px-4">Buy Now</button>
+                            <button className="btn bg-secondary text-white rounded-pill text-center my-4 px-4">Buy Now</button>
                             </article>
                         </section>
        

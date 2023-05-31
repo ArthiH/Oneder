@@ -7,8 +7,8 @@ import { FcCheckmark } from "@react-icons/all-files/fc/FcCheckmark";
 
 export const About=()=>{
     return(
-        <main>
-            <div className="container about">
+        <main >
+            <div className="container about" id="about" >
         <h1 className="text-center text-primary">About Oneder</h1>
         <section className="d-flex content m-2">
                 <div >
@@ -25,7 +25,7 @@ export const About=()=>{
                         <li><span><FcCheckmark/></span> Consectetur adipisicing elit</li>
                     </ul>
                 </div>
-                <button className="text-white">Get In Touch</button>
+                <button><a  href="#contact" className="text-white text-decoration-none">Get In Touch</a></button>
             </article>
         </section>
          </div>

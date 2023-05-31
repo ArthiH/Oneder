@@ -15,7 +15,7 @@
         }
       }
 }
-      /* Additional styles for the sticky navbar */
+      
 .navbar{
   background-color: transparentize($color: #000000, $amount: 0);
 
@@ -38,11 +38,6 @@
               a:active{
                 text-decoration: none;
                 color: #007BFF;
-              }
-              li{
-                .active{
-                    color: #007BFF;
-                }
               }
     
       a:hover{

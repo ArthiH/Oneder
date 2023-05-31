@@ -9,7 +9,7 @@ import {FiMail} from "@react-icons/all-files/fi/FiMail";
 
 export const Contact=()=>{
     return(
-        <main className="contact">
+        <main className="contact" id="contact">
            <div className="container py-3">
            <h1 className="text-primary text-center py-5">Contact Us</h1>
             <section className="d-flex justify-content-center align=items-center my-4">

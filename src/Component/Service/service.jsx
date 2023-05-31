@@ -10,7 +10,7 @@ import humanbrain from "../../assets/service/image/psychology.png";
 
 export const Service=()=>{
     return(
-        <main className=" service py-1 border-bottom border-2">
+        <main className=" service py-1 border-bottom border-2" id="service">
             <div className="container ">
                 <h1 className="text-center text-primary">Our Services</h1>
                 <section className="row">

@@ -6,7 +6,7 @@ import img_3 from "../../assets/protfolio/image/img_3.jpg.webp";
 
 export const Blog=()=>{
     return(
-        <main className="container blog">
+        <main className="container blog" id="blog">
             <div className="d-flex justify-content-center align-items-center flex-column">
                 <h1 className="mb-4 text-primary">Our Blog</h1>
             </div>
